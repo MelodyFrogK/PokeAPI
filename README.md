@@ -1,3 +1,8 @@
+# PokeAPI 웹사이트 구현
+
+![image](https://github.com/MelodyFrogK/PokeAPI/assets/133294474/8a88603e-3006-44d9-a997-5759bd547045)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
