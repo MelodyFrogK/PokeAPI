@@ -1,5 +1,6 @@
 # PokeAPI 웹사이트 구현
-
+## 목적: Svelte와 Tailwind CSS를 사용하여 Pokemon 정보를 제공하는 웹 애플리케이션 구축
+## 기술 환경: Svelte, Tailwind CSS, PostCSS, Node.js
 ![image](https://github.com/MelodyFrogK/PokeAPI/assets/133294474/8a88603e-3006-44d9-a997-5759bd547045)
 
 
